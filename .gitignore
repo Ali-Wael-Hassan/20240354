@@ -1,0 +1,4 @@
+*.exe
+*.sh
+build/
+bin/
